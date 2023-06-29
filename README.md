@@ -1,7 +1,7 @@
 ### Hello world 💻
 I am Cristóbal (he/they), a junior full-stack developer finding their place in the lively and technological community. Always learning and willing to improve our society.
 
-##⚡ Fun facts about me ⚡
+## ⚡Fun facts about me ⚡
 - I started coding in high-school, with C/C++. I self learned most of it, and I created my first text-base game. After that, I gave it a try to C# in Unity and Python. 
 - I have a background in Linguistics, Languages and Literature (degree in English Studies); however, I've been always more attracted to the scientific side of humanities. How we can collect data from humar phenomena and see if there is any logic pattern to it. 
 - I am from South Spain, more especifically Granada, in Andalusia; however, at the moment I am living in Manchester, UK. 
