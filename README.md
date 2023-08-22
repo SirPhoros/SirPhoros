@@ -25,6 +25,7 @@ I am Cristóbal (he/they), a junior full-stack developer finding their place in 
 ## 📫 How to reach me? 📫
 - 📨 [Email:](cgtorrubia@gmail.com) cgtorrubia@gmail.com
 - 💼 [Linkedin:](https://www.linkedin.com/in/cgtorrubia/) https://www.linkedin.com/in/cgtorrubia/
+- 📋 [Portfolio:](https://cgtorrubia.netlify.app/) https://cgtorrubia.netlify.app/
 
 <!--
 **SirPhoros/SirPhoros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
