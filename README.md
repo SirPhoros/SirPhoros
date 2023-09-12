@@ -15,12 +15,14 @@ I am Cristóbal (he/they), a junior full-stack developer finding their place in 
 - TypeScript
 - TailwindCSS
 - Python
+- AWS
 
 ## 🚀 What am I planning to do? 🚀
 - Make some applications to help people organise their lives
 - Create apps for budgeting and task management
-- Learn cybersecurity and Machine Learning
-- Retake C, C++ and C#
+- Create games
+- Learn Cybersecurity and Machine Learning
+- RetakeC/C++ and learn C#
 
 ## 📫 How to reach me? 📫
 - 📨 [Email:](cgtorrubia@gmail.com) cgtorrubia@gmail.com
