@@ -2,7 +2,7 @@
 I am Cristóbal (he/they), a junior full-stack developer finding their place in the lively and technological community. Always learning and willing to improve our society.
 
 ## ⚡Fun facts about me ⚡
-- I started coding in high school, with C/C++. I self-learned most of it, and I created my first text-based game. After that, I gave it a try to C# in Unity and Python. 
+- I started coding in high school, with C/C++. I self-learned most of it, and I created my first text-based game. After that, I gave it a try to C# in Unity and Python for games. 
 - I have a background in Linguistics, Languages and Literature (degree in English Studies); however, I have always been more attracted to the scientific side of humanities. How we can collect data from human phenomena and see if there is any logical pattern to it. 
 - I am from Southern Spain, more specifically Granada, in Andalusia; however, at the moment I am living in Manchester, UK. 
 - In 2022, I gave coding a try, with an Udemy course, and after that I joined Northcoders for a 13-week bootcamp.
