@@ -11,7 +11,7 @@ I am Cristóbal (he/they), a junior full-stack developer finding their place in 
 - I am improving my portfolio, by creating different projects in different tech stacks to get familiarised with the industry. 
 
 ## 🪐 What am I learning now? 🪐
-- NextJS
+- Ember.js
 - TypeScript
 - TailwindCSS
 - Python
