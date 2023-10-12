@@ -6,6 +6,7 @@ I am Cristóbal (he/they), a junior full-stack developer finding their place in 
 - I have a background in Linguistics, Languages and Literature (degree in English Studies); however, I have always been more attracted to the scientific side of humanities. How we can collect data from human phenomena and see if there is any logical pattern to it. 
 - I am from Southern Spain, more specifically Granada, in Andalusia; however, at the moment I am living in Manchester, UK. 
 - In 2022, I gave coding a try, with an Udemy course, and after that I joined Northcoders for a 13-week bootcamp.
+- In 2023, I managed to land my first job as software developer, working as a front-end developer using Ember.js.
 
 ## 🔭 What am I currently working on? 🔭
 - I am improving my portfolio, by creating different projects in different tech stacks to get familiarised with the industry. 
