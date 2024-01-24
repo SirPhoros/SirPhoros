@@ -9,26 +9,24 @@ I am Cristóbal (he/they), a junior full-stack developer finding their place in 
 - In 2023, I managed to land my first job as software developer, working as a front-end developer using Ember.js.
 
 ## 🔭 What am I currently working on? 🔭
-- I am improving my portfolio, by creating different projects in different tech stacks to get familiarised with the industry. 
+- I am working as a junior front-end developer in a small lovely company, allowing me to grow and develop professionally. 
 
 ## 🪐 What am I learning now? 🪐
 - Ember.js
 - TypeScript
-- TailwindCSS
 - Python
 - AWS
 
 ## 🚀 What am I planning to do? 🚀
+- Despite working as a front-end developer, I don't want to neglect my BE skills, so I planning to keep making small BE projects.
 - Make some applications to help people organise their lives
 - Create apps for budgeting and task management
-- Create games
 - Learn Cybersecurity and Machine Learning
 - RetakeC/C++ and learn C#
 
 ## 📫 How to reach me? 📫
 - 📨 [Email:](cgtorrubia@gmail.com) cgtorrubia@gmail.com
 - 💼 [Linkedin:](https://www.linkedin.com/in/cgtorrubia/) https://www.linkedin.com/in/cgtorrubia/
-- 📋 [Portfolio:](https://cgtorrubia.netlify.app/) https://cgtorrubia.netlify.app/
 
 <!--
 **SirPhoros/SirPhoros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
