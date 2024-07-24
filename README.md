@@ -1,5 +1,5 @@
 ### Hello world 💻
-I am Cristóbal (he/they), a junior full-stack developer finding their place in the lively and technological community. Always learning and willing to improve our society.
+I am Cristóbal, a junior full-stack developer finding their place in the lively and technological community. Always learning and willing to improve our society.
 
 ## ⚡Fun facts about me ⚡
 - I started coding in high school, with C/C++. I self-learned most of it, and I created my first text-based game. After that, I gave it a try to C# in Unity and Python for games. 
